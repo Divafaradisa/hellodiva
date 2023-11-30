@@ -1,2 +1,3 @@
 # hellodiva
-Pertama kali membuat repository
+# Pertama kali membuat repository
+# hari ini hari kamis
